@@ -1,1 +1,2 @@
-https://github.com/Khoa2310/RSM-Projects/blob/main/Result%20Session05WorldAnimated01.mp4
+
+![How annual GDP changes affect life expectancy](https://github.com/user-attachments/assets/df021321-3db4-444b-8d77-244e4617f03c)
